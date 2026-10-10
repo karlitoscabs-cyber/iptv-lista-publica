@@ -7,10 +7,6 @@ http://45.162.193.35/CANAL13_HD/index.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="CHILE", CHV Noticias [CL]
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
-#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="CHILE", CNN Chile (1) [CL]
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="CHILE", CNN Chile (2) [CL]
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="CHILE", Mega (1) [CL]
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="CHILE", Mega (2) [CL]
@@ -71,10 +67,6 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-name="Azteca Deportes" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="DEPORTES", Azteca Deportes
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-#EXTINF:-1 tvg-name="CBS Sports" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="DEPORTES", CBS Sports
-https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="Golf Channel LatAm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/500px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", Golf Channel LatAm
-http://72.1.184.5:8089/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-name="L1 Max (Perú)" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="DEPORTES", L1 Max (Perú)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="DEPORTES", Pluto TV Deportes
