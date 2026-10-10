@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE", 24 horas [CL]
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Canal_13_2025.svg" group-title="CHILE", Canal 13 [CL]
+http://45.162.193.35/CANAL13_HD/index.m3u8
+#EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" group-title="CHILE", Chilevisión [CL]
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="CHILE", CHV Noticias [CL]
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="CHILE", CNN Chile (1) [CL]
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="CHILE", CNN Chile (2) [CL]
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="CHILE", Mega (1) [CL]
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="CHILE", Mega (2) [CL]
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Meganoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png" group-title="CHILE", Meganoticias [CL]
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png" group-title="CHILE", TVN 3 [CL]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" group-title="CHILE", TVN [CL]
+http://45.162.193.35/TVN/index.m3u8
+#EXTINF:-1 tvg-name="La Red" tvg-logo="https://static.lared.cl/wp-content/uploads/2021/09/01164338/imagenlared.png" group-title="CHILE", La Red [CL]
+https://live2.airstream.run/3969875408/ts:abr.m3u8
+#EXTINF:-1 tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="LATAM", History [LATAM]
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="LATAM", History 2 [LATAM]
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="LATAM", National Geographic [LATAM]
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/500px-A%26E_Network_logo.svg.png" group-title="LATAM", A&E [LATAM]
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/500px-AXN_logo_%282015%29.svg.png" group-title="LATAM", AXN [LATAM]
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/500px-Sony_Channel_Logo.png" group-title="LATAM", Sony Channel [LATAM]
+http://138.121.15.230:9002/SONY/index.m3u8
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/500px-Star_Channel_2020.svg.png" group-title="LATAM", Star Channel [LATAM]
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="LATAM", Universal TV [LATAM]
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" group-title="LATAM", USA Network [LATAM]
+http://138.121.15.230:9002/USA/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="LATAM", Disney Channel [LATAM]
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/500px-CinecanalLA.png" group-title="LATAM", Cinecanal [LATAM]
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/500px-Logo_Lifetime_2020.svg.png" group-title="LATAM", Lifetime [LATAM]
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="LATAM", Telemundo Internacional [LATAM]
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/500px-Logo_Univision_2019.svg.png" group-title="LATAM", Univision [LATAM]
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="LATAM", Win Sports [LATAM]
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022_%28branded%29.svg/500px-BBC_News_2022_%28branded%29.svg.png" group-title="LATAM", BBC News [LATAM]
+http://138.121.15.230:9002/BBC-NEWS/index.m3u8
+#EXTINF:-1 tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="NATURALEZA", NatureTime
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="NATURALEZA", Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="NATURALEZA", BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="NATURALEZA", Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-name="Adventure Earth" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="NATURALEZA", Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-name="INWILD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="NATURALEZA", INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/500px-TyC_Sports_logo.svg.png" group-title="DEPORTES", TyC Sports
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-name="Azteca Deportes" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="DEPORTES", Azteca Deportes
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 tvg-name="CBS Sports" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="DEPORTES", CBS Sports
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Golf Channel LatAm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/500px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", Golf Channel LatAm
+http://72.1.184.5:8089/play/a0cw/index.m3u8
+#EXTINF:-1 tvg-name="L1 Max (Perú)" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="DEPORTES", L1 Max (Perú)
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="DEPORTES", Pluto TV Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
